@@ -59,6 +59,6 @@ Aplicación web para **gestionar tareas personales** con sistema de usuarios y i
 
 [![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
 
-![Boceto de interfaz](images/boceto.png)
+![Boceto de interfaz](images/mi-boceto.png)
 
 [Ver detalles funcionales](./detalle-funcional.md)
